@@ -6,7 +6,7 @@
     "grunt-cli": "~0.1.13",
     "grunt-contrib-compass": "~1.0.1",
     "load-grunt-tasks": "~1.0.0",
-    "tmp": "0.0.23"
+    "tmp": "0.1.0"
   },
   "description": "Test application for heroku multi buildpack.",
   "engines": {
